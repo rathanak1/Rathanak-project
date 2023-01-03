@@ -84,5 +84,6 @@ echo "Element is $key". "<br>";
 ?>
 
 <?php
-
+    $change = "I'm not gay";
+    echo "Ratanak: $change";
 ?>
